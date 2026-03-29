@@ -1,4 +1,4 @@
-# Synchrony Financial Call Center Forecasting - Datathon 2025
+# Synchrony Financial Call Center Forecasting - Datathon 2026
 
 I was given historical call center data across 4 centers (A, B, C, D) and asked to predict what August 2025 would look like - specifically, how many calls would come in, how many would be abandoned, what the abandon rate would be, and how long calls would take, all broken down into 30-minute slots across the entire month.
 
