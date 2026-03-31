@@ -1,4 +1,4 @@
-# Synchrony Financial Call Center Forecasting — Datathon 2025
+# Synchrony Financial Call Center Forecasting — Datathon 2026
 
 ## Problem Statement
 
